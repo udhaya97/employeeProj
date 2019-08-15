@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: employeepro
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: udhaya2cse
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/employeepro/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
